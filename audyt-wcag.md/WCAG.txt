@@ -1,0 +1,15 @@
+www.sci.edu.pl:
+
+1.Brak responsywności na urządzenia mobilne: Strona nie dostosowuje się prawidłowo do rozmiaru ekranu na urządzeniach mobilnych, co sprawia, że korzystanie z niej na smartfonach i tabletach jest utrudnione.
+
+2.Przestarzały design: Strona ma staromodny wygląd i nie korzysta z nowoczesnych technik projektowania, co może wpływać na doświadczenie użytkownika i zaufanie odwiedzających.
+
+3.Problemy z nawigacją: Menu jest mało intuicyjne, a użytkownicy mogą mieć trudności w znalezieniu ważnych informacji.
+
+www.ckzwaw.pl:
+
+1.Zbyt duża ilość tekstu na stronie głównej: Strona główna zawiera wiele tekstu, który może być przytłaczający i trudny do przetworzenia dla użytkowników. Lepiej sprawdziłoby się zastosowanie bardziej przejrzystych nagłówków i podziału treści.
+
+2.Brak wyraźnych akcentów wizualnych: Pomimo ważnych informacji, strona nie wykorzystuje wystarczających elementów wizualnych (np. zdjęć, grafik), co sprawia, że jej wygląd jest statyczny i nieprzyjazny dla użytkowników.
+
+3.Brak aktualizacji w sekcji ogłoszeń: Choć strona zawiera ogłoszenia, nie wszystkie są aktualne, co może wprowadzać w błąd odwiedzających, szukających bieżących informacji.
