@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0 1rem;
+    background-color: #ffffff;
+    color: #222222;
+}
+
+/* Nagłówek */
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #004080;
+    padding: 1rem 0;
+    gap: 1rem;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #004080;
+}
+
+.header-text h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.header-text p {
+    margin: 0;
+    font-style: italic;
+    color: #555555;
+}
+
+/* Główna sekcja */
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+}
+
+section h2 {
+    color: #004080;
+}
+
+section h3 {
+    margin-top: 1.5rem;
+    color: #0066cc;
+}
+
+p, ul {
+    margin-bottom: 1.5em;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+ul ul {
+    padding-left: 1rem;
+}
+
+/* Obrazek */
+figure {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+figcaption {
+    font-size: 0.9rem;
+    color: #555555;
+    margin-top: 0.5rem;
+}
+
+/* Stopka */
+footer {
+    background-color: #004080;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.9rem;
+}
